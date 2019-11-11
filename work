@@ -1,5 +1,5 @@
 #!/bin/bash
 
 function work(){
-    cd /home/flutterby/work/repos/$1
+    cd ~/work/repos/$1
 } 
