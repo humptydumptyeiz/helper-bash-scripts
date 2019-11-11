@@ -1,0 +1,5 @@
+#!/bin/bash
+
+function work(){
+    cd /home/flutterby/work/repos/$1
+} 
